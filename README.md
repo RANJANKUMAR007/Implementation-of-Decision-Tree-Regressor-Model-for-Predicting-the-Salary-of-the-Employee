@@ -44,7 +44,6 @@ print(r2)
 dt.predict([[5,6]])
 ```
 ## Output:
-![Decision Tree Regressor Model for Predicting the Salary of the Employee](sam.png)
 # Data.Head():
 ![image](https://github.com/user-attachments/assets/e3c604a7-74d9-4f98-a974-7a019c2b7dee)
 # Data.info():
