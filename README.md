@@ -13,11 +13,13 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 3. Determine test and training data set and apply decison tree regression in dataset.
 4. calculate Mean square error,data prediction and r2.
 ## Program:
-```
-/*
+
 Program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee.
-Developed by: NARMADHA SREE S
-RegisterNumber:212223240105
+
+Developed by: Ranjankumar G
+
+RegisterNumber:212223240138
+```
 import pandas as pd
 data=pd.read_csv("Salary.csv")
 data.head()
